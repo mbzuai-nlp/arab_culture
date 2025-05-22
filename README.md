@@ -1,4 +1,6 @@
 
+
+
 # ArabCulture 🇦🇪🇵🇸🇪🇬🇸🇦🇾🇪🇯🇴🇱🇧🇸🇾🇸🇩🇲🇦🇩🇿🇹🇳🇱🇾
 
 <p align="left"> <i>Abdelrahman Sadallah and Junior Cedric Tonga and Khalid Almubarak and Saeed Almheiri and Farah Atif and Cahtrine Qwaider and Karima Kadaoui and Sara Shatnawi and Yaser Alesh and Fajri Koto </i></p>
@@ -8,12 +10,19 @@
 </h4>
 
 ---
+<p align="center">
+  <a href="https://arxiv.org/abs/2502.12788"><img src="https://img.shields.io/badge/arXiv-2405.01535-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://huggingface.co/datasets/MBZUAI/ArabCulture"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow" alt="Hugging Face Organization"></a>
+  <a href="https://github.com/mbzuai-nlp/arab_culture/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-lightgrey.svg" alt="License"></a>
+
+</p>
 
 ### :fire: News
 <!---
 -->
-* **[2025-02.18]** The preprint of our paper can be found [here](https://arxiv.org/abs/2502.12788).
+* **[2025-02.18]** The preprint of our paper can be found [arXiv](https://arxiv.org/abs/2502.12788).
 * **[2024-05.16]** ArabCulture has been accepted at ACL Main, 2025. See you in Vienna!
+* **[2024-05.22]** ArabCulture dataset is available at [HuggingFace](https://huggingface.co/datasets/MBZUAI/ArabCulture)
 
 
 **ArabCulture** is a culturally grounded commonsense reasoning dataset in Modern Standard Arabic (MSA), covering 13 Arab countries across the Gulf, Levant, North Africa, and the Nile Valley. The dataset contains 3,482 multiple-choice instances that test cultural commonsense reasoning in real-world daily life situations.
