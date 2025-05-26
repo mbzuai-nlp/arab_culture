@@ -23,6 +23,7 @@
 * **[2025-02.18]** The preprint of our paper can be found [arXiv](https://arxiv.org/abs/2502.12788).
 * **[2024-05.16]** ArabCulture has been accepted at ACL Main, 2025. See you in Vienna!
 * **[2024-05.22]** ArabCulture dataset is available at [HuggingFace](https://huggingface.co/datasets/MBZUAI/ArabCulture)
+* **[2024-05.26]** ArabCulture Benchmark is available at [lm-eval-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 
 
 **ArabCulture** is a culturally grounded commonsense reasoning dataset in Modern Standard Arabic (MSA), covering 13 Arab countries across the Gulf, Levant, North Africa, and the Nile Valley. The dataset contains 3,482 multiple-choice instances that test cultural commonsense reasoning in real-world daily life situations.
